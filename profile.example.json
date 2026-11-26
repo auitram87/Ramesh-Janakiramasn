@@ -1,0 +1,9 @@
+{
+  "full_name": "Your Name",
+  "email": "you@example.com",
+  "phone": "+1 555 000 0000",
+  "resume_path": "~/documents/resume.pdf",
+  "summary": "Python developer with experience building data tools and automation.",
+  "subject_template": "Application for {title} - {full_name}",
+  "cover_letter_template": "Dear Hiring Team at $company,\n\nI am writing to apply for the $title position$location. $summary\n\nThank you for considering my application. I would welcome the chance to discuss how I can contribute to $company.\n\nKind regards,\n$full_name\n$email$phone"
+}

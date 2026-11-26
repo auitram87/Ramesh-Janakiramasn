@@ -1,0 +1,3 @@
+job_id,title,company,email,location,url,description
+1001,Python Developer,Example Corp,jobs@example.com,Remote,https://example.com/careers/1001,Backend role using Python and PostgreSQL
+1002,Data Engineer,Sample Labs,careers@samplelabs.example,Berlin,https://samplelabs.example/jobs/2,ETL pipelines and analytics
